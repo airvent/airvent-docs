@@ -1,0 +1,9 @@
+<map id="spawn" name="spawn">
+<area shape="rect" id="node2" href="$spawn_8c.html#a8eb7d4bb0b70fdc4d22c148462556b26" title="spawn_option_parse" alt="" coords="113,7,258,32"/>
+<area shape="rect" id="node3" href="$spawn_8c.html#a6b7dbc7336de69886687582bfa843c62" title="fork_process" alt="" coords="137,56,234,81"/>
+<area shape="rect" id="node4" href="$spawn_8c.html#afceef742d30ed3d8c0dbc4891ae2229e" title="sig_chld" alt="" coords="315,31,385,56"/>
+<area shape="rect" id="node8" href="$spawn_8c.html#a908ff2fd32bc6d35de2f746a75381d28" title="insert_child" alt="" coords="306,80,394,105"/>
+<area shape="rect" id="node5" href="$spawn_8c.html#aa98600dba1297718d8bcb80f3f2e9a7f" title="lookup_child" alt="" coords="591,5,686,31"/>
+<area shape="rect" id="node7" href="$spawn_8c.html#aab3f6f39289a3ae5734f5479f8126b4a" title="remove_child" alt="" coords="442,56,543,81"/>
+<area shape="rect" id="node6" href="$spawn_8c.html#aa09040e4e3147c7624f7011c58f692b8" title="child_compare" alt="" coords="734,31,843,56"/>
+</map>

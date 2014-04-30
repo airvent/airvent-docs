@@ -5,7 +5,7 @@ var commands_8h =
     [ "notfound", "commands_8h.html#ga91a2101b5357b753c68c6ef4d85a9a9f", null ],
     [ "quit", "commands_8h.html#ga55e41c496e5f8c11556a9124711c1bbd", null ],
     [ "run", "commands_8h.html#ga8671a4739ef0330cde4139094eebc183", null ],
-    [ "spawn", "commands_8h.html#a216a1de1cb6aaad14dfa04159c6a3b02", null ],
+    [ "spawn", "commands_8h.html#ga216a1de1cb6aaad14dfa04159c6a3b02", null ],
     [ "command_count", "commands_8h.html#ac13e2e91096f4c1cc4c5a0cacf2f09d3", null ],
     [ "commands", "commands_8h.html#a461c22837ddeeaaef0839e2aa8af459a", null ]
 ];

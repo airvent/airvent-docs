@@ -1,5 +1,4 @@
 var modules =
 [
-    [ "commands", "group___utility.html", "group___utility" ],
-    [ "process child list management", "group__children-management.html", "group__children-management" ]
+    [ "Utility commands", "group__commands.html", "group__commands" ]
 ];

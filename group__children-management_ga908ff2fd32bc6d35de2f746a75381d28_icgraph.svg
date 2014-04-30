@@ -15,7 +15,7 @@
 </g>
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
-<a xlink:href="spawn_8c.html#a6b7dbc7336de69886687582bfa843c62" target="_top" xlink:title="fork_process">
+<a xlink:href="group__spawn.html#ga6b7dbc7336de69886687582bfa843c62" target="_top" xlink:title="fork_process">
 <polygon fill="none" stroke="black" points="102.5,-0.5 102.5,-21.5 175.5,-21.5 175.5,-0.5 102.5,-0.5"/>
 <text text-anchor="middle" x="139" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">fork_process</text>
 </a>
@@ -27,7 +27,7 @@
 </g>
 <!-- Node3 -->
 <g id="node5" class="node"><title>Node3</title>
-<a xlink:href="spawn_8c.html#a216a1de1cb6aaad14dfa04159c6a3b02" target="_top" xlink:title="spawn">
+<a xlink:href="group__spawn.html#ga216a1de1cb6aaad14dfa04159c6a3b02" target="_top" xlink:title="fork off a process running the entry parameter from a specific shared object.">
 <polygon fill="none" stroke="black" points="212.5,-0.5 212.5,-21.5 257.5,-21.5 257.5,-0.5 212.5,-0.5"/>
 <text text-anchor="middle" x="235" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">spawn</text>
 </a>

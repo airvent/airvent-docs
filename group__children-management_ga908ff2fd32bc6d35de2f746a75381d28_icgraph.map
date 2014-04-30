@@ -1,4 +1,4 @@
 <map id="insert_child" name="insert_child">
-<area shape="rect" id="node3" href="$spawn_8c.html#a6b7dbc7336de69886687582bfa843c62" title="fork_process" alt="" coords="143,5,239,35"/>
-<area shape="rect" id="node5" href="$spawn_8c.html#a216a1de1cb6aaad14dfa04159c6a3b02" title="spawn" alt="" coords="289,5,348,35"/>
+<area shape="rect" id="node3" href="$group__spawn.html#ga6b7dbc7336de69886687582bfa843c62" title="fork_process" alt="" coords="143,5,239,35"/>
+<area shape="rect" id="node5" href="$group__spawn.html#ga216a1de1cb6aaad14dfa04159c6a3b02" title="fork off a process running the entry parameter from a specific shared object." alt="" coords="289,5,348,35"/>
 </map>

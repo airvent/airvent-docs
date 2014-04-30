@@ -13,6 +13,5 @@ var searchData=
   ['control_2ec',['control.c',['../control_8c.html',1,'']]],
   ['count',['count',['../structchildren__t.html#a391e5bc8b7375ec292540a01b365f1d7',1,'children_t']]],
   ['count_5fcommands',['COUNT_COMMANDS',['../commands_8h.html#a2bb731106f6ca4246172fe291e882baf',1,'commands.h']]],
-  ['ctrl_5fstdin',['ctrl_stdin',['../ventd_8c.html#a8fb773adefcfb42d0222444205ff4f1f',1,'ventd.c']]],
-  ['commands',['commands',['../group___utility.html',1,'']]]
+  ['ctrl_5fstdin',['ctrl_stdin',['../ventd_8c.html#a8fb773adefcfb42d0222444205ff4f1f',1,'ventd.c']]]
 ];

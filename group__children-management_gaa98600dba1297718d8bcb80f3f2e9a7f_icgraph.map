@@ -1,6 +1,6 @@
 <map id="lookup_child" name="lookup_child">
 <area shape="rect" id="node3" href="$group__children-management.html#gaab3f6f39289a3ae5734f5479f8126b4a" title="Remove a child in the list by pid." alt="" coords="149,5,248,35"/>
-<area shape="rect" id="node5" href="$spawn_8c.html#afceef742d30ed3d8c0dbc4891ae2229e" title="sig_chld" alt="" coords="297,32,367,61"/>
-<area shape="rect" id="node7" href="$spawn_8c.html#a6b7dbc7336de69886687582bfa843c62" title="fork_process" alt="" coords="417,32,513,61"/>
-<area shape="rect" id="node9" href="$spawn_8c.html#a216a1de1cb6aaad14dfa04159c6a3b02" title="spawn" alt="" coords="564,32,623,61"/>
+<area shape="rect" id="node5" href="$group__spawn.html#gafceef742d30ed3d8c0dbc4891ae2229e" title="sig_chld" alt="" coords="297,32,367,61"/>
+<area shape="rect" id="node7" href="$group__spawn.html#ga6b7dbc7336de69886687582bfa843c62" title="fork_process" alt="" coords="417,32,513,61"/>
+<area shape="rect" id="node9" href="$group__spawn.html#ga216a1de1cb6aaad14dfa04159c6a3b02" title="fork off a process running the entry parameter from a specific shared object." alt="" coords="564,32,623,61"/>
 </map>

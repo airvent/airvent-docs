@@ -8,5 +8,6 @@ var searchData=
   ['print_5fchildren',['print_children',['../group__children-management.html#gac62dd8dea7d52dc304d3656940bf1b52',1,'spawn.c']]],
   ['processes',['processes',['../spawn_8c.html#a114f669fbe1bf58536db8acd3b0b1855',1,'spawn.c']]],
   ['prog_5fname',['PROG_NAME',['../ventd_8c.html#a44493dbd21a529ec6fdb2da73a35ac70',1,'ventd.c']]],
-  ['python_2ec',['python.c',['../python_8c.html',1,'']]]
+  ['python_2ec',['python.c',['../python_8c.html',1,'']]],
+  ['process_20spawner',['Process spawner',['../group__spawn.html',1,'']]]
 ];

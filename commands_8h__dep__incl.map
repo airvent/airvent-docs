@@ -1,5 +1,5 @@
 <map id="src/commands.h" name="src/commands.h">
-<area shape="rect" id="node2" href="$commands_8c.html" title="src/commands.c" alt="" coords="5,79,124,104"/>
-<area shape="rect" id="node3" href="$control_8c.html" title="src/control.c" alt="" coords="147,79,240,104"/>
-<area shape="rect" id="node4" href="$spawn_8c.html" title="src/spawn.c" alt="" coords="264,79,356,104"/>
+<area shape="rect" id="node3" href="$commands_8c.html" title="src/commands.c" alt="" coords="5,83,123,112"/>
+<area shape="rect" id="node5" href="$control_8c.html" title="src/control.c" alt="" coords="147,83,240,112"/>
+<area shape="rect" id="node7" href="$spawn_8c.html" title="src/spawn.c" alt="" coords="264,83,357,112"/>
 </map>

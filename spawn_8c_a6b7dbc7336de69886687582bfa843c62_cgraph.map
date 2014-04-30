@@ -1,7 +1,7 @@
 <map id="fork_process" name="fork_process">
-<area shape="rect" id="node2" href="$spawn_8c.html#afceef742d30ed3d8c0dbc4891ae2229e" title="sig_chld" alt="" coords="160,31,231,56"/>
-<area shape="rect" id="node6" href="$spawn_8c.html#a908ff2fd32bc6d35de2f746a75381d28" title="insert_child" alt="" coords="151,80,240,105"/>
-<area shape="rect" id="node3" href="$spawn_8c.html#aa98600dba1297718d8bcb80f3f2e9a7f" title="lookup_child" alt="" coords="436,5,532,31"/>
-<area shape="rect" id="node5" href="$spawn_8c.html#aab3f6f39289a3ae5734f5479f8126b4a" title="remove_child" alt="" coords="288,56,388,81"/>
-<area shape="rect" id="node4" href="$spawn_8c.html#aa09040e4e3147c7624f7011c58f692b8" title="child_compare" alt="" coords="580,31,688,56"/>
+<area shape="rect" id="node3" href="$spawn_8c.html#afceef742d30ed3d8c0dbc4891ae2229e" title="sig_chld" alt="" coords="161,31,231,60"/>
+<area shape="rect" id="node13" href="$group__children-management.html#ga908ff2fd32bc6d35de2f746a75381d28" title="Insert a child into the list of children." alt="" coords="152,84,240,113"/>
+<area shape="rect" id="node5" href="$group__children-management.html#gaa98600dba1297718d8bcb80f3f2e9a7f" title="Lookup a child in a list by pid." alt="" coords="436,5,529,35"/>
+<area shape="rect" id="node9" href="$group__children-management.html#gaab3f6f39289a3ae5734f5479f8126b4a" title="Remove a child in the list by pid." alt="" coords="288,57,387,87"/>
+<area shape="rect" id="node7" href="$group__children-management.html#gaa09040e4e3147c7624f7011c58f692b8" title="child_compare" alt="" coords="579,32,685,61"/>
 </map>

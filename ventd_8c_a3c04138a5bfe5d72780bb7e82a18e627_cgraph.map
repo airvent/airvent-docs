@@ -1,9 +1,9 @@
 <map id="main" name="main">
-<area shape="rect" id="node2" href="$ventd_8c.html#ab065705c6d0b4619995c2f1a318d31ba" title="parse_options" alt="" coords="107,5,212,31"/>
-<area shape="rect" id="node4" href="$ventd_8c.html#ae710b6e1e3475f05843032f73a4dd7a7" title="signal_handler" alt="" coords="106,55,214,80"/>
-<area shape="rect" id="node5" href="$ventd_8c.html#a6d3ff0af9dd1932c1c031b2c51d88ee0" title="term" alt="" coords="136,104,184,129"/>
-<area shape="rect" id="node6" href="$control_8c.html#afb21092d2ff9f3777a77bb74e37db7b1" title="command_loop" alt="" coords="104,153,216,179"/>
-<area shape="rect" id="node3" href="$ventd_8c.html#aaf7bc24f3891f0c63a6043f4dc2ab311" title="parse_opt" alt="" coords="264,5,345,31"/>
-<area shape="rect" id="node7" href="$ventd_8c.html#ab449b3631df031cf379352e21a433adb" title="readcmd" alt="" coords="268,128,341,153"/>
-<area shape="rect" id="node8" href="$control_8c.html#a156816dfaf4b4bf275c44f26d3e0c543" title="execute" alt="" coords="270,177,338,203"/>
+<area shape="rect" id="node3" href="$ventd_8c.html#ab065705c6d0b4619995c2f1a318d31ba" title="Set up arg_p option parsing." alt="" coords="109,5,211,35"/>
+<area shape="rect" id="node7" href="$ventd_8c.html#ae710b6e1e3475f05843032f73a4dd7a7" title="Termination signal handler." alt="" coords="108,59,212,88"/>
+<area shape="rect" id="node9" href="$ventd_8c.html#a6d3ff0af9dd1932c1c031b2c51d88ee0" title="Do a clean shutdown, clean up stuff." alt="" coords="136,112,184,141"/>
+<area shape="rect" id="node11" href="$control_8c.html#afb21092d2ff9f3777a77bb74e37db7b1" title="continuously read on the control file descriptor, and execute commands received." alt="" coords="105,165,215,195"/>
+<area shape="rect" id="node5" href="$ventd_8c.html#aaf7bc24f3891f0c63a6043f4dc2ab311" title="argp option callback." alt="" coords="265,5,343,35"/>
+<area shape="rect" id="node13" href="$ventd_8c.html#ab449b3631df031cf379352e21a433adb" title="Reads on the specified file descriptor until a separator is found." alt="" coords="268,139,340,168"/>
+<area shape="rect" id="node15" href="$control_8c.html#a156816dfaf4b4bf275c44f26d3e0c543" title="execute a command" alt="" coords="271,192,337,221"/>
 </map>

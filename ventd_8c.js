@@ -1,5 +1,7 @@
 var ventd_8c =
 [
+    [ "_POSIX_C_SORCE", "ventd_8c.html#a934975b663d01d5732268fcdcb8f40a9", null ],
+    [ "_XOPEN_SOURCE", "ventd_8c.html#a78c99ffd76a7bb3c8c74db76207e9ab4", null ],
     [ "PROG_NAME", "ventd_8c.html#a44493dbd21a529ec6fdb2da73a35ac70", null ],
     [ "main", "ventd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
     [ "parse_opt", "ventd_8c.html#aaf7bc24f3891f0c63a6043f4dc2ab311", null ],

@@ -1,4 +1,4 @@
 <map id="command_loop" name="command_loop">
-<area shape="rect" id="node2" href="$ventd_8c.html#ab449b3631df031cf379352e21a433adb" title="readcmd" alt="" coords="166,5,239,31"/>
-<area shape="rect" id="node3" href="$control_8c.html#a156816dfaf4b4bf275c44f26d3e0c543" title="execute" alt="" coords="168,55,236,80"/>
+<area shape="rect" id="node3" href="$ventd_8c.html#ab449b3631df031cf379352e21a433adb" title="Reads on the specified file descriptor until a separator is found." alt="" coords="165,5,237,35"/>
+<area shape="rect" id="node5" href="$control_8c.html#a156816dfaf4b4bf275c44f26d3e0c543" title="execute a command" alt="" coords="168,59,235,88"/>
 </map>
